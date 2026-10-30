@@ -12,3 +12,5 @@ Ce fichier détaille les commandes à exécuter pour tester notre code.
 Ainsi, pour tester le code, il suffit de télécharger ces fichiers puis exécuter les commandes suivantes dans un terminal :
 gcc main.c getData.c sampling.c perceptron.c perceptronBonus.c kmeans.c -o programme -lm
 ./programme
+
+Les fichiers patients.pengu et lifestyle.pengu rassemblent les données synthétiques utilisées dans ce projet.
